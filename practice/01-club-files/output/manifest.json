@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "source": "input/announcement.txt",
+      "destination": "output/communications/announcement.txt",
+      "reason": "Communication announcing the simulated activity and undecided time and location."
+    },
+    {
+      "source": "input/announcement_copy.txt",
+      "destination": "output/communications/announcement_copy.txt",
+      "reason": "Identical-content copy of the announcement; preserved separately."
+    },
+    {
+      "source": "input/budget_draft.txt",
+      "destination": "output/resources-and-budget/budget_draft.txt",
+      "reason": "Draft resource and budget information."
+    },
+    {
+      "source": "input/equipment_backup.txt",
+      "destination": "output/resources-and-budget/equipment_backup.txt",
+      "reason": "Equipment information; identical in content to the equipment list."
+    },
+    {
+      "source": "input/equipment_list.txt",
+      "destination": "output/resources-and-budget/equipment_list.txt",
+      "reason": "Primary equipment information for the simulated activity."
+    },
+    {
+      "source": "input/feedback_questions.txt",
+      "destination": "output/communications/feedback_questions.txt",
+      "reason": "Questions intended to collect participant feedback."
+    },
+    {
+      "source": "input/meeting_notes.txt",
+      "destination": "output/proposals-and-decisions/meeting_notes.txt",
+      "reason": "Notes about deciding between indoor and outdoor activities."
+    },
+    {
+      "source": "input/next_steps.txt",
+      "destination": "output/proposals-and-decisions/next_steps.txt",
+      "reason": "Instructions to compare proposals without assuming approval."
+    },
+    {
+      "source": "input/poster_text.txt",
+      "destination": "output/communications/poster_text.txt",
+      "reason": "Short promotional or engagement text."
+    },
+    {
+      "source": "input/proposal_final.txt",
+      "destination": "output/proposals-and-decisions/proposal_final.txt",
+      "reason": "One proposed activity option; the filename does not establish approval."
+    },
+    {
+      "source": "input/proposal_final2.txt",
+      "destination": "output/proposals-and-decisions/proposal_final2.txt",
+      "reason": "Second proposed activity option; the filename does not establish approval."
+    },
+    {
+      "source": "input/rain_plan.txt",
+      "destination": "output/proposals-and-decisions/rain_plan.txt",
+      "reason": "Contingency decision guidance for rainy conditions."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+qa/
+__pycache__/
+webapp/
+NDHU-Agent-Lab-*.zip
+!assets/
+!assets/**
