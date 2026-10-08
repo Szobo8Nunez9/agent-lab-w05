@@ -2,7 +2,7 @@
 
 Use a group code, not real names or student IDs in shared files. / 共用檔只寫組別代碼，不寫姓名或學號。
 
-- Group code / 組別：
+- Group code / Brian：
 - Tool / 工具：
 - Route / 路線：individual 個人 / paired 雙人 / prepared simulation 預生成備援
 - Tasks completed / 完成題目：
